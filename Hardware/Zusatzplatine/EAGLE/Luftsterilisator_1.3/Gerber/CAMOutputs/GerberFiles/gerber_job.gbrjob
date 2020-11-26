@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-26T18:00:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "coronakiller_Zusatzplatine"
+        },
+        "Owner": "Andreas Hertel <andreas.hertel@t-online.de>",
+        "Size": {
+            "X": 54.026,
+            "Y": 59.68
+        }
+    }
+}
